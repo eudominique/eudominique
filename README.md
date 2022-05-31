@@ -14,7 +14,7 @@
    </div><br>
  
  <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudominique&layout=compact&langs_count=7&theme=cobalt"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudominique&layout=compact&langs_count=7&theme=cobalt"/>
 </div><br>
    
    <div align="center">
