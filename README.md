@@ -7,14 +7,11 @@
   <img alt="Dominique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Dominique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Dominique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Dominique-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="Dominique-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img alt="Dominique-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-   <img alt="Dominique-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-   </div><br>
+  <img alt="Dominique-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  </div><br>
  
  <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudominique&layout=compact&langs_count=7&theme=cobalt"/>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudominique&layout=compact&langs_count=7&theme=cobalt"/>
 </div><br>
    
    <div align="center">
