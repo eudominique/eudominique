@@ -20,5 +20,3 @@
   </div>
  
  #
- 
-  ![Snake animation](https://github.com/eudominique/eudominique/blob/output/github-contribution-grid-snake.svg)
