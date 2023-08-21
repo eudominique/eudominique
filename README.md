@@ -1,22 +1,17 @@
-### _Olá, bem-vindos ao meu perfil_ 💜  
-
-#
+<div align="center"> 
   
-  <div style="display: inline_block" align="center">
-  <a href="https://github.com/eudominique">
-  <img alt="Dominique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Dominique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Dominique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Dominique-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  </div><br>
+# 🎆 Olá, sejam muito bem-vindos!
+ <img width=70% src="https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif"/> 
  
- <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudominique&layout=compact&langs_count=7&theme=cobalt"/>
-</div><br>
-   
-   <div align="center">
- <a href = "mailto:opsdominique@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dominiquebatista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
- 
- #
+##### Sou estudante de Administração e Análise e Desenvolvimento de Sistemas. Gosto de conhecimento multidisciplinar e estou constantemente buscando o melhor de mim mesma.✨
+  
+[![E-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:opsdominique@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/dominiquebatista/)
+
+
+# 👾 Minhas skills
+<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudominique&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,angular,java,mysql)
+
+</div>
