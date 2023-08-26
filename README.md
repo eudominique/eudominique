@@ -13,7 +13,7 @@
 <div>
 <a><img src=https://img.shields.io/badge/pensamento_analitico-%2320232a.svg?style=for-the-badge&color=6F49C1></a>
 <a><img src=https://img.shields.io/badge/Produtividade-CA4245?style=for-the-badge&color=6F49C1></a>
-<a><img src=https://img.shields.io/badge/Gestão_do_tempo-%2320232a.svg?style=for-the-badge&color=6F49C1></a>
+<a><img src=https://img.shields.io/badge/Gestão_do_tempo-%2320232a.svg?style=for-the-badge&color=6F49C1></a><br>
 <a><img src=https://img.shields.io/badge/Foco_em_resultados-DB7093?style=for-the-badge&color=6F49C1></a>
 <a><img src=https://img.shields.io/badge/Trabalho_em_equipe-%23C21325?style=for-the-badge&color=6F49C1></a>
 </div><br>
