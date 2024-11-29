@@ -21,7 +21,7 @@
 ## 👾 HARD SKILLS
 <div>
   <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=eudominique&layout=compact&langs_count=7&theme=midnight-purple"/><br>
-  <img height="20%" width="30%" src="https://skillicons.dev/icons?i=html,css,js,angular,java,mysql"/>
+  <img height="20%" width="30%" src="https://skillicons.dev/icons?i=html,css,js,react,python"/>
 </div>
 
 </div>
